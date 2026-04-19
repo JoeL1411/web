@@ -5,11 +5,11 @@
 }
 body {
     font-family: Arial, sans-serif;
-    background-color: #0b0b0b;
+    background-color: #eceaea;
     padding: 20px;
 }
 .contenedor1 {
-    background-color: #d9e1e8;
+    background-color: #797f84;
     width: 90%;
     max-width: 1000px;
     margin: auto;
@@ -18,7 +18,7 @@ body {
 /* hearder*/
 
 header {
-    background-color: #f7941d;
+    background-color: #59a1ed;
     text-align: center;
     padding: 25px;
     border-radius: 40px;
@@ -36,7 +36,7 @@ header p {
 /* nav */
 
 nav {
-    background-color: #41e86d;
+    background-color: #48ba66;
     padding: 15px;
     border-radius: 20px;
     margin-bottom: 20px;
@@ -52,7 +52,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: blueviolet;
+    color: rgb(71, 148, 122);
     font-weight: bold;
 }
 
@@ -66,7 +66,7 @@ nav ul li a {
 
 
 section {
-    background-color: #f71da3;
+    background-color: #3e6a5a;
     flex: 3;
     padding: 20px;
     border-radius: 10px;
@@ -79,7 +79,7 @@ section h2 {
 }
 
 article {
-    background-color: #f71da3;
+    background-color: #2e40a9;
     padding: 15px;
     margin-bottom: 15px;
     border-radius: 15px;
@@ -111,7 +111,8 @@ aside h3 {
 .buscador input{
     width: 90%;
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #101ff3;
     border-radius: 10px;
     border: none;
 }
+
